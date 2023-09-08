@@ -5,11 +5,11 @@
 
 Within this project, I established a compact honeynet infrastructure within Azure. I collected log data from diverse sources and funneled it into a dedicated Log Analytics workspace. Microsoft Sentinel leveraged this data to construct comprehensive attack visualizations, initiate alert mechanisms, and generate incident reports. The project unfolded through distinct phases:
 
-Initial Security Assessment: I commenced by quantifying essential security metrics within the initially vulnerable environment, diligently monitoring them over a continuous 24-hour interval.
+Initial Security Assessment: I commenced by quantifying essential security metrics within the initially vulnerable environment, capturing statistics over a 24-hour interval.
 
 Security Enhancement Initiative: Following this assessment, I instituted a series of robust security controls to fortify the environment, significantly bolstering its defensive measures.
 
-Reassessment of Security Metrics: Subsequently, I conducted a subsequent 24-hour evaluation of security metrics, providing a comparative analysis of the environment's improved security posture.
+Reassessment of Security Metrics: Subsequently, I conducted a 24-hour evaluation of security metrics, providing a comparative analysis of the environment's improved security posture.
 
 Log sources include:
 
